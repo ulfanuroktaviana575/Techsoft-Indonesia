@@ -633,7 +633,7 @@ section {
 }
 
 .section-title h3 span {
-  color: #106eea;
+  color: salmon;
 }
 
 .section-title p {
@@ -1150,7 +1150,7 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #106eea;
+  color: salmon;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1197,7 +1197,7 @@ section {
 
 .portfolio .portfolio-item .portfolio-info .preview-link:hover,
 .portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #106eea;
+  color: salmon;
 }
 
 .portfolio .portfolio-item .portfolio-info .details-link {
@@ -1223,7 +1223,7 @@ section {
 }
 
 .portfolio .portfolio-item .portfolio-links a:hover {
-  color: #6ba7f5;
+  color: salmon;
 }
 
 .portfolio .portfolio-item:hover .portfolio-info {
